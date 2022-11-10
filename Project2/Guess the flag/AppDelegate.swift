@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Guess the flag
 //
-//  Created by Michele Galvagno on 24/09/2022.
+//  Created by Oliwier Kasprzak on 24/09/2022.
 //  Copyright © 2022 Oliwier Kasprzak. All rights reserved.
 //
 
