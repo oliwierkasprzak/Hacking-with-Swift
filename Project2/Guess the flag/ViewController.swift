@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Guess the flag
 //
-//  Created by Michele Galvagno on 19/02/2019.
-//  Copyright © 2019 Michele Galvagno. All rights reserved.
+//  Created by Oliwier Kasprzak on 24/09/2022.
+//  Copyright © 2022 Oliwier Kasprzak. All rights reserved.
 //
 import UserNotifications
 import UIKit
